@@ -80,3 +80,12 @@ Wir schaffen das!
 已經到了無恥的地步。
             [33m-- 丘成桐（國內）[0m
 %
+I'll have what she's having.
+                              [33m-- When Harry Met Sally[0m
+%
+睡觉是好的。
+        [33m-- Sphenhe[0m
+%
+I compose thoughts from words, service from containers, music from notes, and life from days.
+                                                                                               [33m-- hash[0m
+%
