@@ -65,10 +65,10 @@ Sie kennen mich!
                          [33m-- hash[0m
 %
 It's normal. Don't worry.
-                           [33m-- Dr. Burlin[0m
+                           [33m-- Dr. Burin[0m
 %
 放轻松，深呼吸～
-          [33m-- Dr. Burlin[0m
+          [33m-- Dr. Burin[0m
 %
 Wir schaffen das!
                    [33m-- Merkel[0m
@@ -88,4 +88,10 @@ I'll have what she's having.
 %
 I compose thoughts from words, service from containers, music from notes, and life from days.
                                                                                                [33m-- hash[0m
+%
+磁盘阵列不是备份。
+           [33m-- 续本达[0m
+%
+教皇？他有几个师？
+           [33m-- 约瑟夫·斯大林[0m
 %
