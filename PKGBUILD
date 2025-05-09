@@ -8,7 +8,7 @@ url='https://github.com/adamanteye/fortune-ada'
 license=('CC0-1.0')
 depends=('fortune-mod')
 source=("ada")
-sha256sums=('8a232e6ac03727665f965195ac684339582a38607a1c1b93b438bb9387f65258')
+sha256sums=('105892ffad3f91dbd982aea7ad02d8d3e720ff757cc468981fcfa31db1f1693f')
 package() {
     strfile -c % ada > /dev/null
     install -Dm644 ada.dat "$pkgdir/usr/share/fortune/ada.dat"
