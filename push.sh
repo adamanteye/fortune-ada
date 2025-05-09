@@ -4,8 +4,8 @@ SOURCE_COLOR="\033[33m"
 RESET_COLOR="\033[0m"
 EXTRA_IDENT=2
 
-content=$(cat "$1")
-source="$2"
+content=$(cat content)
+source="$1"
 
 content_length=$(
     echo "$content" | awk '{ if (length > max) max = length } END { print max }'
