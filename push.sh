@@ -14,7 +14,7 @@ content_length=$(
 )
 spaces=$(printf "%$((content_length + EXTRA_IDENT))s" "")
 
-if [ -n $title ]; then
+if [ -n "$title" ]; then
     echo -e -n "$TITLE_COLOR$title$RESET_COLOR\n" >>ada
 fi
 

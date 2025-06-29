@@ -247,3 +247,12 @@ Thank God for the French Army.
 春已不言归，我亦无须盼。但愿流光照此身，寸寸长春岸。
                             [33m-- adamanteye[0m
 %
+Proprietary software is an injustice.
+                                       [33m-- Richard Stallman[0m
+%
+Sharing is good, and with digital technology, sharing is easy.
+                                                                [33m-- Richard Stallman[0m
+%
+Facebook is not your friend, it is a surveillance engine.
+                                                           [33m-- Richard Stallman[0m
+%
